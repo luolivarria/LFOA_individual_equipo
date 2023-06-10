@@ -1,14 +1,14 @@
-## LFOA_individual_equipo
+# LFOA_individual_equipo
 Trabajo individual y en equipo del modulo Algebra lineal y optimizacion
 
 # Enlaces del proyecto por equipo
 ## Equipo 15
 
-Luis Federico Olivarria Avila
-Martin Eduardo Preciado Orozco
-Mario Estrada Ferreira
+- **Luis Federico Olivarria Avila**
+- **Martin Eduardo Preciado Orozco**
+- **Mario Estrada Ferreira**
 
-Predicción de Errores en el Desarrollo de Software a partir de una Red Neuronal
+## Predicción de Errores en el Desarrollo de Software a partir de una Red Neuronal
 
 El trabajo en equipo consistió en la realización del proyecto para entrenar y probar una red neuronal hecho con tensorflow.
 
@@ -49,20 +49,21 @@ defects: Variable binaria que indica si el módulo tiene o no defectos reportado
 
 Se puede observar que existen dos enlaces para distintos entrenamientos y pruebas con distintos algoritmos, solo para ver la viabilidad de los datos y comparar resultados.
 
-El archivo utilizado para la estadística y los distintas pruebas con su entrenamiento de la red neuronal está en el repositorio y es el llamado jm1.csv el cual fue obtenido desde https://www.kaggle.com/datasets/semustafacevik/software-defect-prediction
+El archivo utilizado para la estadística y los distintas pruebas con su entrenamiento de la red neuronal está en el repositorio y es el llamado jm1.csv el cual fue obtenido desde [Base Kaggle](https://www.kaggle.com/datasets/semustafacevik/software-defect-prediction)
 
-Enlace para a estadística previa del archivo del dataset con el que trabajamos para el entramiento y prueba de la red neuronal:
+## Enlace para la base estadística previa del archivo del dataset con el que trabajamos para el entrenamiento y prueba de la red neuronal:
 
-https://colab.research.google.com/drive/1LHfGFd3TAA6lHdMJVbxNWJbwHNZgE4zY?usp=sharing
+[Estadística](https://colab.research.google.com/drive/1LHfGFd3TAA6lHdMJVbxNWJbwHNZgE4zY?usp=sharing)
 
-Enlace donde se ubica los resultados del entrenamiento de la red neuronal, por medio del modelo adam:
+## Enlace donde se ubica los resultados del entrenamiento de la red neuronal, por medio del modelo adam:
 
-https://www.kaggle.com/code/marioef/red-neuronal-prediccion-errores-dev-software
+[Resultados red neuronal](https://www.kaggle.com/code/marioef/red-neuronal-prediccion-errores-dev-software)
 
-Enlace donde se ubica los resultados del entrenamiento de la red neuronal, por medio del modelo El descenso de gradiente estocástico:
+##Enlace donde se ubica los resultados del entrenamiento de la red neuronal, por medio del modelo El descenso de gradiente estocástico:
 
-https://colab.research.google.com/drive/1nqYtgMWJCFrsNShW0i0ZkOO8llPvsJuh?usp=sharing
+[Resultados entrenamiento](https://colab.research.google.com/drive/1nqYtgMWJCFrsNShW0i0ZkOO8llPvsJuh?usp=sharing)
 
-Enlace de la presentación del proyecto:
+## Enlace de la presentación del proyecto:
 
-https://gamma.app/docs/PrediccionErroresDevSoftwareRedNeuronal-hbkuv1bsf1si3kf?mode=doc https://drive.google.com/file/d/1d58xwdQxwgYME6TmrCwQGux472_R9fak/view?usp=sharing
+[Presentación en gamma](https://gamma.app/docs/PrediccionErroresDevSoftwareRedNeuronal-hbkuv1bsf1si3kf?mode=doc)
+[Presentación PDF](https://drive.google.com/file/d/1d58xwdQxwgYME6TmrCwQGux472_R9fak/view?usp=sharing)
